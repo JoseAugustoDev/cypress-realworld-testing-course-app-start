@@ -104,7 +104,7 @@ export default function LessonPage({
     >
       <Head>
         <title>
-          {lessonData.title} | Testing Next.js Applications with Cypress
+          {lessonData.title} | SIGEX
         </title>
         <meta name="description" content={lessonData.description} />
       </Head>
